@@ -1,6 +1,6 @@
 # Multiple_Linear_Regression_HW
 
-The following machine learning model employs a Multiple linear regression model.
+The following machine learning model employs a **Multiple linear regression model**.
 > A multiple linear regression (MLR) model estimates the relationship between a single continuous dependent variable and two or more independent (explanatory) variables.
 
 ***
